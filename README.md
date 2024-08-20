@@ -1,10 +1,7 @@
 # UIS2
 
 ## Overview:
-    This repository contains the data, scripts, and computational models used in the study titled
-    "Mechanistic Insights into Plasmodium eIF2alpha Dephosphorylation by UIS2 via Computation Methods."
-    The study focuses on understanding the role of the Plasmodium phosphatase UIS2 in dephosphorylating
-    eIF2alpha at Ser59, a critical process for Plasmodium development and infectivity.
+This repository contains the data, scripts, and computational models used in the study titled "Mechanistic Insights into Plasmodium eIF2alpha Dephosphorylation by UIS2 via Computation Methods."
 
 ## Contents:
 
