@@ -7,6 +7,7 @@ Overview:
     eIF2alpha at Ser59, a critical process for Plasmodium development and infectivity.
 
 Contents:
+
     Screening and expression:
         - PlasmoGEM Phenotype Screening Data:
             Used to analyze the essentiality of UIS2 and other translation initiation factors in Plasmodium.
@@ -21,20 +22,18 @@ Contents:
             - AlphaFold scripts for modeling the UIS2 phosphatase domain and its interaction with eIF2alpha.
             - PyMOL can be used for visualizing the structural models.
 
-
-
     Molecular Docking:
     - Molecular Docking:
         - Scripts for docking studies using AutoDock Vina, specifically         examining salubrinal binding to UIS2.
 
-Requirements:
-    - Python: For data analysis and visualization.
-    - AlphaFold 2.3.1: For protein structure predictions.
-    - AutoDock Vina: For molecular docking studies.
-    - PyMOL: For visualizing protein structures and docking results.
+  Requirements:
+      - Python: For data analysis and visualization.
+      - AlphaFold 2.3.1: For protein structure predictions.
+      - AutoDock Vina: For molecular docking studies.
+      - PyMOL: For visualizing protein structures and docking results.
 
-Contact:
-    For questions or further information, please contact:
-        - Su Wu: su_wu@hms.harvard.edu
+  Contact:
+      For questions or further information, please contact:
+          - Su Wu: su_wu@hms.harvard.edu
 
 """
