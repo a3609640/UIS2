@@ -8,21 +8,21 @@
 
 ## Contents:
 
-### Screening and expression:
-1. PlasmoGEM Phenotype Screening Data:
+### Knockout screen and scRNAseq expression:
+- PlasmoGEM Phenotype Screening Data:
   Used to analyze the essentiality of UIS2 and other translation initiation factors in Plasmodium.
-2. Single-Cell Transcriptomics Data:
+- Single-Cell Transcriptomics Data:
   From the Malaria Cell Atlas, detailing UIS2 expression across different stages of the Plasmodium life cycle.
-3. Data Analysis Scripts:
+- Data Analysis Scripts:
   Scripts are provided for analyzing the PlasmoGEM phenotype data and single-cell transcriptomics data.
   Use the provided Python scripts to reproduce the scatter plots and UMAP visualizations.
 
 ### Protein Structure Modeling:
-1. AlphaFold scripts for modeling the UIS2 phosphatase domain and its interaction with eIF2alpha.
-2. PyMOL can be used for visualizing the structural models.
+- AlphaFold scripts for modeling the UIS2 phosphatase domain and its interaction with eIF2alpha.
+- PyMOL can be used for visualizing the structural models.
 
 ### Molecular Docking:
-1. Scripts for docking studies using AutoDock Vina, specifically         examining salubrinal binding to UIS2.
+- Scripts for docking studies using AutoDock Vina, specifically         examining salubrinal binding to UIS2.
 
 ### Requirements:
 - Python: For data analysis and visualization.
@@ -31,5 +31,5 @@
 - PyMOL: For visualizing protein structures and docking results.
 
 ### Contact:
-      For questions or further information, please contact:
-          - Su Wu: su_wu@hms.harvard.edu
+For questions or further information, please contact:
+Su Wu: su_wu@hms.harvard.edu
