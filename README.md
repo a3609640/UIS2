@@ -9,13 +9,13 @@
 ## Contents:
 
 ### Screening and expression:
-        - PlasmoGEM Phenotype Screening Data:
-            Used to analyze the essentiality of UIS2 and other translation initiation factors in Plasmodium.
-        - Single-Cell Transcriptomics Data:
-            From the Malaria Cell Atlas, detailing UIS2 expression across different stages of the Plasmodium life cycle.
-        - Data Analysis Scripts:
-          - Scripts are provided for analyzing the PlasmoGEM phenotype data and single-cell transcriptomics data.
-          - Use the provided Python scripts to reproduce the scatter plots and UMAP visualizations.
+PlasmoGEM Phenotype Screening Data:
+  Used to analyze the essentiality of UIS2 and other translation initiation factors in Plasmodium.
+Single-Cell Transcriptomics Data:
+  From the Malaria Cell Atlas, detailing UIS2 expression across different stages of the Plasmodium life cycle.
+Data Analysis Scripts:
+  Scripts are provided for analyzing the PlasmoGEM phenotype data and single-cell transcriptomics data.
+  Use the provided Python scripts to reproduce the scatter plots and UMAP visualizations.
 
 ### Structural modeling:
         - Protein Structure Modeling:
