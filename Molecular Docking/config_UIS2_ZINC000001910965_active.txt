@@ -1,0 +1,14 @@
+receptor = UIS2_ranked_0.pdbqt
+ligand = ZINC000001910965_pymol.pdbqt
+
+out = UIS2_ranked_0_ZINC000001910965_active.pdbqt
+
+center_x = -3.556
+center_y = -5.195
+center_z = -11.502
+
+size_x = 40
+size_y = 40
+size_z = 40
+
+exhaustiveness = 32
